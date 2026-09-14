@@ -12,9 +12,11 @@ A proposta é utilizar uma estrutura de one page, concentrando todas as principa
 
 Além da organização das informações, o projeto foi pensado desde o wireframe considerando microinterações, animações e elementos interativos, que posteriormente serão explorados durante a etapa de UI e desenvolvimento.
 
-##Estrutura da página##
+![Wireframe de média fidelidade](assets/wireframe%20medio.png)
 
-1. Cabeçalho / Navegação
+# Estrutura da página
+
+## 1. Cabeçalho / Navegação
 
 O cabeçalho foi planejado para apresentar de forma objetiva as principais áreas de interesse do usuário:
 
@@ -29,7 +31,7 @@ A navegação foi pensada para uma estrutura one page, evitando que o usuário p
 
 O botão "Quero uma BALLBOX" funciona como o principal CTA da navegação, direcionando o usuário para uma ação de interesse comercial.
 
-2. Hero Section — Apresentação da BALLBOX
+## 2. Hero Section — Apresentação da BALLBOX
 
 A primeira seção apresenta de forma imediata a proposta de valor da marca.
 
@@ -59,7 +61,7 @@ Na parte inferior do Hero são apresentados quatro indicadores que ajudam a comu
 
 A intenção dessa área é permitir que o usuário compreenda rapidamente o valor da solução mesmo sem realizar uma leitura aprofundada da página.
 
-3. "Tudo que o jogador precisa na hora que ele precisa"
+## 3. "Tudo que o jogador precisa na hora que ele precisa"
 
 Essa seção apresenta visualmente quais necessidades do jogador a BALLBOX consegue solucionar.
 
@@ -91,7 +93,7 @@ Os elementos sejam posicionados sobre/ao redor da máquina, reforçando a relaç
 
 A animação tem como objetivo tornar uma grande quantidade de informações mais fácil e interessante de consumir, evitando que todos os elementos apareçam simultaneamente.
 
-4. Marcas de tênis
+## 4. Marcas de tênis
 
 Após apresentar os produtos disponíveis, a página apresenta as principais marcas relacionadas ao universo do tênis.
 
@@ -109,7 +111,7 @@ O objetivo é criar uma apresentação dinâmica das marcas sem exigir uma inter
 
 O movimento também ajuda a quebrar a estrutura estática da página e reforçar a associação da BALLBOX com marcas reconhecidas do segmento.
 
-5. Como funciona
+## 5. Como funciona
 
 A seção apresenta o funcionamento da BALLBOX de maneira simples e objetiva, utilizando uma estrutura de três passos:
 
@@ -137,7 +139,7 @@ A interação cria uma resposta visual imediata ao usuário.
 
 A intenção é utilizar uma microinteração simples para reforçar a sensação de interface responsiva e tornar os três passos mais exploráveis.
 
-6. Espaços em que a BALLBOX faz a diferença
+## 6. Espaços em que a BALLBOX faz a diferença
 
 Essa seção apresenta os principais ambientes onde a solução pode ser instalada.
 
@@ -168,7 +170,7 @@ Hotéis & Resorts → quadra em ambiente de hotel/resort
 
 Essa interação tem como objetivo permitir que o usuário visualize a BALLBOX inserida em diferentes contextos de utilização, tornando a proposta mais concreta.
 
-7. Sustentabilidade — "Mais do que conveniência"
+## 7. Sustentabilidade — "Mais do que conveniência"
 
 A seção de sustentabilidade apresenta a BALLBOX não apenas como uma solução de conveniência, mas também como uma alternativa que pode contribuir para práticas mais responsáveis.
 
@@ -188,7 +190,7 @@ A intenção dessa seção é ampliar a percepção do usuário sobre a marca.
 
 Até esse ponto, a BALLBOX é apresentada principalmente como uma solução prática e tecnológica. Aqui, a página introduz outros valores associados à marca, contribuindo para uma percepção mais completa da empresa.
 
-8. Depoimentos
+## 8. Depoimentos
 
 A seção de depoimentos apresenta a experiência de pessoas que já tiveram contato com a solução.
 
@@ -203,7 +205,7 @@ Comentário sobre a experiência com a máquina.
 
 A estrutura pode posteriormente ser expandida para comportar mais depoimentos ou transformada em um carrossel.
 
-9. FAQ — Perguntas frequentes
+## 9. FAQ — Perguntas frequentes
 
 A seção de FAQ foi criada para responder às principais dúvidas que podem surgir durante a jornada do usuário.
 
@@ -226,7 +228,7 @@ Os demais itens permanecerão fechados ou poderão ser recolhidos conforme a reg
 
 Essa estrutura evita apresentar todas as respostas simultaneamente, mantendo a página mais organizada e permitindo que o usuário consulte apenas as informações relevantes para ele.
 
-10. CTA Final
+## 10. CTA Final
 
 Após o FAQ existe um último bloco de chamada para ação:
 
@@ -238,7 +240,7 @@ O CTA "Fale com um especialista" direciona o usuário para um contato mais diret
 
 Essa seção funciona como um ponto de conversão final, aproveitando o momento em que o usuário já teve contato com todas as informações principais da solução.
 
-11. Rodapé
+## 11. Rodapé
 
 O rodapé apresenta as informações institucionais básicas da marca.
 
@@ -254,17 +256,20 @@ Fluxo de interação da página
 
 Além da estrutura de conteúdo, o wireframe foi planejado considerando algumas interações que serão desenvolvidas posteriormente:
 
-Seção	Interação
-Cabeçalho	Navegação por âncoras
-Hero	CTAs direcionando para ações específicas
-Tudo que o jogador precisa	Entrada sequencial dos elementos
-Marcas	Carrossel infinito
-Como funciona	Mudança de cor no hover
-Espaços	Mudança de background conforme o card selecionado
-FAQ	Accordion de perguntas e respostas
-CTA final	Ação de contato
 
-Objetivo do projeto
+| Seção                      | Interação                                         |
+| -------------------------- | ------------------------------------------------- |
+| Cabeçalho                  | Navegação por âncoras                             |
+| Hero                       | CTAs direcionando para ações específicas          |
+| Tudo que o jogador precisa | Entrada sequencial dos elementos                  |
+| Marcas                     | Carrossel infinito                                |
+| Como funciona              | Mudança de cor no hover                           |
+| Espaços                    | Mudança de background conforme o card selecionado |
+| FAQ                        | Accordion de perguntas e respostas                |
+| CTA final                  | Ação de contato                                   |
+
+
+# Objetivo do projeto
 
 O principal objetivo deste wireframe foi estruturar a experiência da landing page antes da definição visual final e do desenvolvimento.
 
@@ -272,7 +277,7 @@ A proposta busca equilibrar informação, hierarquia visual e interatividade, cr
 
 O wireframe também foi desenvolvido já considerando a futura implementação das animações e microinterações, permitindo que a etapa de UI e desenvolvimento mantenha a lógica definida durante o planejamento de UX.
 
-Próximas etapas
+# Próximas etapas
 
 Após a validação do wireframe, o projeto seguirá para:
 
